@@ -4,6 +4,8 @@
 This project is an implementation of the **vProfile** application infrastructure, primarily focused on setting up and configuring all components on **AWS**. The infrastructure was designed to support a web application using various AWS services and best DevOps practices.  
 
 ## Infrastructure Setup  
+
+![image](https://github.com/user-attachments/assets/9739f540-f298-4e55-95d3-3ebf58b1658a)
 The infrastructure was built using AWS services and includes the following components:  
 - **Domain Management:** Configured a custom domain `vprofileapp.krystianwierciak.pl` using **GoDaddy DNS**.  
 - **SSL Certificate:** Integrated **AWS Certificate Manager** to secure HTTPS connections.  
